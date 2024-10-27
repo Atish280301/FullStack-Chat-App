@@ -1,0 +1,13 @@
+.TABS_DIV{
+    color: black;
+}
+@media screen and (max-width: 768px) {
+    .TABS_DIV{
+        width: 75%;
+    }    
+}
+@media screen and (max-width: 425px) {
+    .TABS_DIV{
+        width: 80%;
+    }    
+}
